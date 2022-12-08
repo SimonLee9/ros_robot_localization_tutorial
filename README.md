@@ -36,16 +36,16 @@ rosrun
 
 
 ## 가상의 센서
-*include/robot_localization/**positioning_system**.hpp &* src */sensors/**positioning_system**.cpp*
 
+*include/robot_localization/**positioning_system**.hpp &* src */sensors/**positioning_system**.cpp*
 : 위치 센서 클래스 구현
 
-*src/sensors/**positioning_system_node**.cpp*
 
+*src/sensors/**positioning_system_node**.cpp*
 : 센서의 노드 시작
+
 
 위치센서
 
 : *turtle1/pose (*topic) → *turtlesim/*Pose (messages)
-
 : *turtle1/sensors/pose (*topic) → sending *geometry_msgs/PoseWithCovarianceStamped (*messages)
