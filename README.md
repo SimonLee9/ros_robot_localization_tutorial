@@ -48,7 +48,7 @@ rosrun
 ## 가상의 센서
 
 - 위치 센서 클래스 구현
- *include/robot_localization/**positioning_system**.hpp &* src */sensors/**positioning_system**.cpp*
+-  *include/robot_localization/**positioning_system**.hpp &* src */sensors/**positioning_system**.cpp*
 
 
 - 센서의 노드 시작
