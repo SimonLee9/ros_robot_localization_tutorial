@@ -35,6 +35,13 @@ rosrun
 - 두꺼운 녹색 - 맵 프레임에서 거북이 자세에 대한 robots_location 추정치
 
 
+## 가상의 센서 만들기
+
+- 주행 거리계(속도 센서) - 로봇의 선형 및 각속도 ‘측정’
+
+- 위치 센서 - 로봇의 절대 위치와 방향을 ‘측정’
+
+
 ## 가상의 센서
 
 *include/robot_localization/**positioning_system**.hpp &* src */sensors/**positioning_system**.cpp*
