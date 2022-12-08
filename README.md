@@ -1,7 +1,7 @@
 # ros_robot_localization_tutorial
 The ROS robot_localization package: a no-hardware-required hands-on tutorial
 
-
+# Install
 cd ~catkin_ws/src
 
 git clone https://github.com/Kapernikov/ros_robot_localization_tutorial.git
