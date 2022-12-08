@@ -35,8 +35,8 @@ rosrun
 - 두꺼운 녹색 - 맵 프레임에서 거북이 자세에 대한 robots_location 추정치
 
 
-## 
-*include/robot_localization/**positioning_system**.hpp &* src  */sensors/**positioning_system**.cpp*
+## 가상의 센서
+*include/robot_localization/**positioning_system**.hpp &* src */sensors/**positioning_system**.cpp*
 
 : 위치 센서 클래스 구현
 
