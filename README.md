@@ -12,12 +12,12 @@ catkin_make
 
 roslaunch
  
- roslaunch robot_localization_demo robot_localization_demo.launch
+  roslaunch robot_localization_demo robot_localization_demo.launch
 
 
 rosrun
  
- rosrun turtlesim turtle_teleop_key
+  rosrun turtlesim turtle_teleop_key
 
 # Source Code
 ## robot_localization_demo.launch
