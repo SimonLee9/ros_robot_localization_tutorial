@@ -60,7 +60,7 @@ rosrun
 
 
 
-위치센서
+- 위치센서
 
   : *turtle1/pose (*topic) → *turtlesim/*Pose (messages)
 
